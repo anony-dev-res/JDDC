@@ -1,11 +1,11 @@
 
 The repository includes the data collected by JDDC:
 
-data: the collected dynamic data of each codebase in a zip file. 
+_data_: the collected dynamic data of each codebase in a zip file. 
 
-testcasses: the functional test suites of the codebases. 
+_testcases_: the functional test suites of the codebases. 
 
-### How to run testcases
+## How to run testcases
 Shopizer and SpringPetclinic are ran in Pupeteer. To run, execute the following commands:
 ```
 npm i
